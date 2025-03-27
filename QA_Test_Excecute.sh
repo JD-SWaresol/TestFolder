@@ -1,3 +1,3 @@
 ls -l -a
 
-cd  /
+#Que tal? como va todo?
