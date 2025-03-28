@@ -1,7 +1,9 @@
 cd /
 
-nano test_dev_file.sh
+## We delete Something!!
 
 ls -l -a
 
 ## Whats up my friend!!!
+
+## NOW NEW UPDATE!!!!
