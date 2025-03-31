@@ -1,5 +1,0 @@
-cd /
-
-touch new.txt
-
-ls -l -a
